@@ -1,0 +1,14 @@
+Guatemala Mixco 15
+Mixco Antigua 30
+Antigua Escuintla 25
+Escuintla SantaLucia 15
+SantaLucia Mazatenango 40
+Mazatenango Quetzaltenango 55
+Quetzaltenango Huehuetenango 70
+Huehuetenango Coban 120
+Coban Guatemala 210
+Guatemala Jalapa 95
+Jalapa Jutiapa 45
+Jutiapa Escuintla 110
+Antigua Coban 160
+Mixco Jalapa 100
